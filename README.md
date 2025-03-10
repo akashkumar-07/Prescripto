@@ -1,2 +1,2 @@
 # Prescripto
-Doctor Appointment System
+Doctor Appointment Booking System
